@@ -62,4 +62,5 @@ n_points: 22
 
 # Machine Learning Techniques
 Used KNN, ANN, Naive Bayes, Decision Tree, and SVM to compare features against Persons/Expressions/Gender 
+
 ![FaceAR](FaceAR.png)
