@@ -60,6 +60,6 @@ n_points: 22
 6.	Eye-brow length ratio: Distance between points 4 and 5 (or distance between points 6 and 7 whichever is larger) over distance between 8 and 13.
 7.	Aggressive ratio: Distance between points 10 and 19 over distance between 20 and 21.
 
-#ML Techniques
+# Machine Learning Techniques
 Used KNN, ANN, Naive Bayes, Decision Tree, and SVM to compare features against Persons/Expressions/Gender 
 ![FaceAR](FaceAR.png)
