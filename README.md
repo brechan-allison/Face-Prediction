@@ -51,5 +51,15 @@ n_points: 22
 499.835 402.522
 }
 
+# Features
+1.	Eye length ratio: length of eye (maximum of two) over distance between points 8 and 13.
+2.	Eye distance ratio: distance between center of two eyes over distance between points 8 and 13.
+3.	Nose ratio: Distance between points 15 and 16 over distance between 20 and 21.
+4.	Lip size ratio: Distance between points 2 and 3 over distance between 17 and 18.
+5.	Lip length ratio: Distance between points 2 and 3 over distance between 20 and 21.
+6.	Eye-brow length ratio: Distance between points 4 and 5 (or distance between points 6 and 7 whichever is larger) over distance between 8 and 13.
+7.	Aggressive ratio: Distance between points 10 and 19 over distance between 20 and 21.
 
+#ML Techniques
+Used KNN, ANN, Naive Bayes, Decision Tree, and SVM to compare features against Persons/Expressions/Gender 
 ![FaceAR](FaceAR.png)
